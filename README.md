@@ -1,2 +1,3 @@
 # http-server
-A no-configuration command-line http server
+
+A command-line HTTP server that is easy to use and configure.
